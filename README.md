@@ -28,14 +28,16 @@ cd gameOfLife
 
 ### Random Grid Simulation
 
-![Untitled video - Made with Clipchamp (1)](https://github.com/motez-baccouch/gameOfLife/assets/80569257/20227aa7-33f5-47bb-9166-3d34180d0a51)
+![Uploading random.gif…]()
+
 
 
 Describe the random grid simulation here.
 
 ### Glider Test Simulation
 
-![Untitled video - Made with Clipchamp](https://github.com/motez-baccouch/gameOfLife/assets/80569257/756959b6-801f-4a36-ba7b-ed251c720ea0)
+![glider](https://github.com/motez-baccouch/gameOfLife/assets/80569257/8940b6f9-fa64-4d46-93a4-f2e7dd561e18)
+
 
 
 Describe the glider test simulation here.
