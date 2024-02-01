@@ -28,13 +28,13 @@ cd gameOfLife
 
 ### Random Grid Simulation
 
-![Uploading random.gif…]()
 
+![random](https://github.com/motez-baccouch/gameOfLife/assets/80569257/a598cc50-f286-4883-8375-afa31c2cba8d)
 
 
 Describe the random grid simulation here.
 
-### Glider Test Simulation
+### Gosper Glider Gun
 
 ![glider](https://github.com/motez-baccouch/gameOfLife/assets/80569257/8940b6f9-fa64-4d46-93a4-f2e7dd561e18)
 
